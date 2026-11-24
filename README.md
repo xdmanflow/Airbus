@@ -1,4 +1,4 @@
-# Road to Airbus Skywise 2027 · Data Engineering Flight Plan
+# Airbus Skywise 2027 · Data Engineering Flight Plan
 
 I'm **Manil Doudou**, a fourth-year computer science engineering student at **CESI Toulouse** (AI & Data Science track, taught in English, top of class 2025–2026) and a **Data Analyst intern at ALTEN Toulouse**, in the Aeronautics, Space & Defence department.
 
