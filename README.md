@@ -1,6 +1,6 @@
 # Airbus Skywise 2027 · Data Engineering Flight Plan
 
-I'm **Manil Doudou**, a fourth-year computer science engineering student at **CESI Toulouse** (AI & Data Science track, taught in English, top of class 2025–2026) and a **Data Analyst intern at ALTEN**, in the Aerospace & Defence department.
+I'm **Manil Doudou**, a fourth-year computer science engineering student at **CESI Toulouse** (AI & Data Science track, taught in English, top of class) and a **Data Analyst intern at ALTEN**, in the Aerospace & Defence department.
 
 This repository is my public, structured plan to join **Airbus as a Data Engineer apprentice in September 2027**, on the **Skywise** platform and its **Palantir Foundry** stack. It shows what I know, what I am building, & what I still have to prove.
 
