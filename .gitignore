@@ -1,0 +1,17 @@
+# Private working files: stay on this computer, never pushed to GitHub
+private/
+interview-prep/
+
+# Personal documents
+*.xlsx
+*.xls
+*.pdf
+*.docx
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
