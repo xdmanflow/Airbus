@@ -1,4 +1,4 @@
-# Road to Airbus Skywise · Data Engineering Apprenticeship 2027
+# Road to Airbus Skywise · Data Engineering Apprenticeship
 
 I'm **Manil Doudou**, a fourth-year computer science engineering student at **CESI Toulouse** (AI & Data Science track, taught in English, top of class 2025–2026) and a **Data Analyst intern at ALTEN Toulouse**, in the Aeronautics, Space & Defence department.
 
