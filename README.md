@@ -13,7 +13,7 @@ This repository is my public, structured plan to join **Airbus as a Data Enginee
 | **Target role** | Data Engineer apprentice, Airbus Skywise or an Airbus data team working on Skywise |
 | **Contract** | Contrat de professionnalisation, 12 months, final year of the CESI computer science engineering degree recognized by the French Republic (RNCP40612) |
 | **Dates** | September 2027 → August 2028 · Toulouse |
-| **Flagship proof** | [Aerolisa](workstreams/2-aerolisa.md): a Skywise-style data & AI system on Foundry, plus a platform-independent medallion pipeline |
+| **Flagship proof** | [Aerolisa](workstreams/2-aerolisa.md): a Skywise-style data & AI system on Foundry + a platform-independent medallion pipeline |
 | **Long-term direction** | Data & AI engineering for aerospace operations, growing towards data architecture and AI |
 
 ## Why Skywise, and why now
