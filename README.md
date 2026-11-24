@@ -4,10 +4,6 @@ I'm **Manil Doudou**, a fourth-year computer science engineering student at **CE
 
 This repository is my public, structured plan to join **Airbus as a Data Engineer apprentice in September 2027**, on the **Skywise** platform and its **Palantir Foundry** stack. It shows what I know, what I am building, and what I still have to prove.
 
-> *"Prove it until you make it."* Every claim in this repository points to something I did, built or can explain.
-
-> **Data policy:** public data and my own work only. No Airbus, ALTEN, client or candidate data, names or screenshots.
-
 ---
 
 ## At a glance
