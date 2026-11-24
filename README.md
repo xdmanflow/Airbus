@@ -105,6 +105,4 @@ raw C-MAPSS files ─► PySpark transforms + data health checks ─► features
 
 ## Contact
 
-**Manil Doudou** · [LinkedIn](https://www.linkedin.com/in/manil-doudou) · [GitHub](https://github.com/xdmanflow) · French · English · Arabic · Spanish · Catalan · German · Italian
-
-<sub>Last updated: 24 November 2026 · Content licensed under CC BY 4.0 · "Skywise-style" means inspired by public information; this project is not affiliated with or endorsed by Airbus or Palantir.</sub>
+**Manil Doudou** · [LinkedIn](https://www.linkedin.com/in/manil-doudou) · [GitHub](https://github.com/xdmanflow)
